@@ -41,6 +41,7 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 ![Simulatión Proteus](/Img/5.png)
 ![Simulatión Proteus](/Img/7.png)
 <a name="item5"></a>
+
 [Subir](#top)
 
 
@@ -57,6 +58,7 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 
 ![Simulatión Proteus](/Img/9.png) 
 ![Simulatión Proteus](/Img/8.png)
+
 [Subir](#top)
  
 
