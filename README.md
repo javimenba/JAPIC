@@ -8,7 +8,7 @@
     * [Integración de módulos](#item5)
 * [PCB](#item2)
     * [B.Cu](#item7)
-    * [Vista 3D](#item9)
+    * [Vista 3D](#item8)
  
 
  
@@ -51,11 +51,12 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 [Subir](#top)
 
 
-<a name="item9"></a>
-**Vista 3D:**
-![Simulatión Proteus](/Img/8.png)
-![Simulatión Proteus](/Img/9.png) 
+<a name="item8"></a>
 
+**Vista 3D:**
+
+![Simulatión Proteus](/Img/9.png) 
+![Simulatión Proteus](/Img/8.png)
 [Subir](#top)
  
 
