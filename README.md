@@ -1,46 +1,33 @@
 <a name="top"></a>
-# Título de nuestro documento
+# JAPIC: Placa en desarrollo para pic18f45k50. 
  
 ## Índice de contenidos
-* [Contenido 1](#item1)
-* [Contenido 2](#item2)
-* [Contenido 3](#item3)
-* [Contenido 4](#item4)
+* [Schematic](#item1)
+* [PCB](#item2)
+
  
 Lorem ipsum dolor
  
 <a name="item1"></a>
-### Contenido 1
+### Schematic
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequetic:
+![Simulatión Proteus](/Img/1.png)
+![Simulatión Proteus](/Img/2.png)
+![Simulatión Proteus](/Img/3.png)
+![Simulatión Proteus](/Img/4.png)
  
 [Subir](#top)
  
 <a name="item2"></a>
-### Contenido 2
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- 
-[Subir](#top)
- 
-<a name="item3"></a>
-### Contenido 3
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+### PCB
+![Simulatión Proteus](/Img/5.png)
+![Simulatión Proteus](/Img/6.png)
+![Simulatión Proteus](/Img/7.png)
+![Simulatión Proteus](/Img/8.png)
+![Simulatión Proteus](/Img/9.png) 
+
  
 [Subir](#top)
  
-<a name="item4"></a>
-### Contenido 4
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
- 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- 
-[Subir](#top)
+
