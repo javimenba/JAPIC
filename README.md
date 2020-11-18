@@ -7,6 +7,7 @@
     * [Puerto de salida y entrada del PIC18F45K50](#item4)
     * [Integración de módulos](#item5)
 * [PCB](#item2)
+    * [F.Cu](#item9)
     * [B.Cu](#item7)
     * [Vista 3D](#item8)
  
@@ -50,6 +51,11 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 ![Simulatión Proteus](/Img/6.png)
 [Subir](#top)
 
+
+<a name="item9"></a>
+**F.Cu:**
+![Simulatión Proteus](/Img/11.png)
+[Subir](#top)
 
 <a name="item8"></a>
 
