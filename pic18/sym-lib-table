@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name pic18f45k50)(type Legacy)(uri /home/francisco/Documentos/Placa_desarrollo/pic18/PIC18F45K50.lib)(options "")(descr ""))
+  (lib (name conectores)(type Legacy)(uri /home/francisco/Documentos/Placa_desarrollo/pic18/Connector/Connector.lib)(options "")(descr ""))
+  (lib (name digikey)(type Legacy)(uri /home/francisco/Documentos/Placa_desarrollo/pic18/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
+)

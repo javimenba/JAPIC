@@ -1,0 +1,270 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F45K50 ]
+[d frameptr 4065 ]
+"4 /opt/microchip/xc8/v2.05/pic/sources/c90/common/fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 /opt/microchip/xc8/v2.05/pic/sources/c90/common/float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 /opt/microchip/xc8/v2.05/pic/sources/c90/common/ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 /opt/microchip/xc8/v2.05/pic/sources/c90/common/ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 /opt/microchip/xc8/v2.05/pic/sources/c90/common/ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 /opt/microchip/xc8/v2.05/pic/sources/c90/common/ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 /opt/microchip/xc8/v2.05/pic/sources/c90/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 /opt/microchip/xc8/v2.05/pic/sources/c90/common/sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 /opt/microchip/xc8/v2.05/pic/sources/c90/common/sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 /opt/microchip/xc8/v2.05/pic/sources/c90/common/Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 /opt/microchip/xc8/v2.05/pic/sources/c90/common/Umul64.c
+[v ___omul __omul `(ul  1 e 4 0 ]
+"51 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/main.c
+[v _main main `(v  1 e 1 0 ]
+"52 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_Initialize INTERRUPT_Initialize `(v  1 e 1 0 ]
+"58
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `IIH(v  1 e 1 0 ]
+"50 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+"59
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+"55 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+"67 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/tmr0.c
+[v _TMR0_Initialize TMR0_Initialize `(v  1 e 1 0 ]
+"136
+[v _TMR0_ISR TMR0_ISR `(v  1 e 1 0 ]
+"156
+[v _TMR0_SetInterruptHandler TMR0_SetInterruptHandler `(v  1 e 1 0 ]
+"160
+[v _TMR0_DefaultInterruptHandler TMR0_DefaultInterruptHandler `(v  1 e 1 0 ]
+"10 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/sensor.c
+[v _Ini_nRF Ini_nRF `(v  1 e 1 0 ]
+"232 /opt/microchip/xc8/v2.05/pic/include/pic18f45k50.h
+[v _ANSELA ANSELA `VEuc  1 e 1 @3931 ]
+"277
+[v _ANSELB ANSELB `VEuc  1 e 1 @3932 ]
+"327
+[v _ANSELC ANSELC `VEuc  1 e 1 @3933 ]
+"361
+[v _ANSELD ANSELD `VEuc  1 e 1 @3934 ]
+"423
+[v _ANSELE ANSELE `VEuc  1 e 1 @3935 ]
+[s S221 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"3083
+[s S230 . 1 `uc 1 INT0 1 0 :1:0 
+`uc 1 INT1 1 0 :1:1 
+`uc 1 INT2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 PGM 1 0 :1:5 
+`uc 1 PGC 1 0 :1:6 
+`uc 1 PGD 1 0 :1:7 
+]
+[s S238 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 CCP2_PA2 1 0 :1:3 
+]
+[u S241 . 1 `S221 1 . 1 0 `S230 1 . 1 0 `S238 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES241  1 e 1 @3969 ]
+"3779
+[v _LATA LATA `VEuc  1 e 1 @3977 ]
+[s S152 . 1 `uc 1 LATA0 1 0 :1:0 
+`uc 1 LATA1 1 0 :1:1 
+`uc 1 LATA2 1 0 :1:2 
+`uc 1 LATA3 1 0 :1:3 
+`uc 1 LATA4 1 0 :1:4 
+`uc 1 LATA5 1 0 :1:5 
+`uc 1 LATA6 1 0 :1:6 
+`uc 1 LATA7 1 0 :1:7 
+]
+"3806
+[s S161 . 1 `uc 1 LA0 1 0 :1:0 
+`uc 1 LA1 1 0 :1:1 
+`uc 1 LA2 1 0 :1:2 
+`uc 1 LA3 1 0 :1:3 
+`uc 1 LA4 1 0 :1:4 
+`uc 1 LA5 1 0 :1:5 
+`uc 1 LA6 1 0 :1:6 
+`uc 1 LA7 1 0 :1:7 
+]
+[u S170 . 1 `S152 1 . 1 0 `S161 1 . 1 0 ]
+[v _LATAbits LATAbits `VES170  1 e 1 @3977 ]
+"3891
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+"4003
+[v _LATC LATC `VEuc  1 e 1 @3979 ]
+"4105
+[v _LATD LATD `VEuc  1 e 1 @3980 ]
+"4217
+[v _LATE LATE `VEuc  1 e 1 @3981 ]
+"4626
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"4848
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"5070
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"5248
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"5470
+[v _TRISE TRISE `VEuc  1 e 1 @3990 ]
+"6050
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @3995 ]
+"8210
+[v _ACTCON ACTCON `VEuc  1 e 1 @4021 ]
+[s S404 . 1 `uc 1 NOT_BOR 1 0 :1:0 
+]
+"12176
+[s S406 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 NOT_POR 1 0 :1:1 
+]
+[s S409 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 NOT_PD 1 0 :1:2 
+]
+[s S412 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_TO 1 0 :1:3 
+]
+[s S415 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 NOT_RI 1 0 :1:4 
+]
+[s S418 . 1 `uc 1 nBOR 1 0 :1:0 
+`uc 1 nPOR 1 0 :1:1 
+`uc 1 nPD 1 0 :1:2 
+`uc 1 nTO 1 0 :1:3 
+`uc 1 nRI 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 SBOREN 1 0 :1:6 
+`uc 1 IPEN 1 0 :1:7 
+]
+[s S427 . 1 `uc 1 BOR 1 0 :1:0 
+`uc 1 POR 1 0 :1:1 
+`uc 1 PD 1 0 :1:2 
+`uc 1 TO 1 0 :1:3 
+`uc 1 RI 1 0 :1:4 
+]
+[u S433 . 1 `S404 1 . 1 0 `S406 1 . 1 0 `S409 1 . 1 0 `S412 1 . 1 0 `S415 1 . 1 0 `S418 1 . 1 0 `S427 1 . 1 0 ]
+[v _RCONbits RCONbits `VES433  1 e 1 @4048 ]
+"12294
+[v _OSCCON2 OSCCON2 `VEuc  1 e 1 @4050 ]
+"12356
+[v _OSCCON OSCCON `VEuc  1 e 1 @4051 ]
+"12439
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+[s S310 . 1 `uc 1 T0PS 1 0 :3:0 
+`uc 1 PSA 1 0 :1:3 
+`uc 1 T0SE 1 0 :1:4 
+`uc 1 T0CS 1 0 :1:5 
+`uc 1 T08BIT 1 0 :1:6 
+`uc 1 TMR0ON 1 0 :1:7 
+]
+"12459
+[s S317 . 1 `uc 1 T0PS0 1 0 :1:0 
+`uc 1 T0PS1 1 0 :1:1 
+`uc 1 T0PS2 1 0 :1:2 
+]
+[u S321 . 1 `S310 1 . 1 0 `S317 1 . 1 0 ]
+[v _T0CONbits T0CONbits `VES321  1 e 1 @4053 ]
+"12516
+[v _TMR0L TMR0L `VEuc  1 e 1 @4054 ]
+"12536
+[v _TMR0H TMR0H `VEuc  1 e 1 @4055 ]
+[s S61 . 1 `uc 1 IOCIF 1 0 :1:0 
+`uc 1 INT0IF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 IOCIE 1 0 :1:3 
+`uc 1 INT0IE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE_GIEL 1 0 :1:6 
+`uc 1 GIE_GIEH 1 0 :1:7 
+]
+"13257
+[s S70 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 INT0F 1 0 :1:1 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 INT0E 1 0 :1:4 
+`uc 1 T0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+[s S79 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 GIEL 1 0 :1:6 
+`uc 1 GIEH 1 0 :1:7 
+]
+[u S83 . 1 `S61 1 . 1 0 `S70 1 . 1 0 `S79 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES83  1 e 1 @4082 ]
+"58 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/tmr0.c
+[v _TMR0_InterruptHandler TMR0_InterruptHandler `*.37(v  1 e 2 0 ]
+"60
+[v _timer0ReloadVal timer0ReloadVal `VEui  1 e 2 0 ]
+"51 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"78
+} 0
+"50 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/mcc.c
+[v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
+{
+"57
+} 0
+"67 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/tmr0.c
+[v _TMR0_Initialize TMR0_Initialize `(v  1 e 1 0 ]
+{
+"95
+} 0
+"156
+[v _TMR0_SetInterruptHandler TMR0_SetInterruptHandler `(v  1 e 1 0 ]
+{
+[v TMR0_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 2 ]
+"158
+} 0
+"55 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/pin_manager.c
+[v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
+{
+"97
+} 0
+"59 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/mcc.c
+[v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
+{
+"69
+} 0
+"52 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_Initialize INTERRUPT_Initialize `(v  1 e 1 0 ]
+{
+"56
+} 0
+"10 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/sensor.c
+[v _Ini_nRF Ini_nRF `(v  1 e 1 0 ]
+{
+"72
+} 0
+"58 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/interrupt_manager.c
+[v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `IIH(v  1 e 1 0 ]
+{
+"69
+} 0
+"136 /home/francisco/Documentos/Placa_desarrollo/Códigos/nrf24l01/nr24l01_mcc/trasmisor.X/mcc_generated_files/tmr0.c
+[v _TMR0_ISR TMR0_ISR `(v  1 e 1 0 ]
+{
+"153
+} 0
+"160
+[v _TMR0_DefaultInterruptHandler TMR0_DefaultInterruptHandler `(v  1 e 1 0 ]
+{
+"163
+} 0
