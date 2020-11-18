@@ -37,22 +37,25 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
  
 <a name="item2"></a>
 ### PCB
+
 ![Simulatión Proteus](/Img/5.png)
 ![Simulatión Proteus](/Img/7.png)
 <a name="item5"></a>
 [Subir](#top)
 
 
-**B.Cu:**
 <a name="item7"></a>
+**B.Cu:**
 ![Simulatión Proteus](/Img/6.png)
+
 [Subir](#top)
 
 
-**Vista 3D:**
 <a name="item9"></a>
+**Vista 3D:**
 ![Simulatión Proteus](/Img/8.png)
 ![Simulatión Proteus](/Img/9.png) 
+
 [Subir](#top)
  
 
