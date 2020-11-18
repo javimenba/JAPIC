@@ -48,7 +48,6 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 <a name="item7"></a>
 **B.Cu:**
 ![Simulatión Proteus](/Img/6.png)
-
 [Subir](#top)
 
 
