@@ -1,4 +1,11 @@
 #### JAPIC: Placa en desarrollo para pic18f45k50. 
+
+Tabla de contenido
+---------------
+* Schematic
+* PCB
+
+
 # Schematic
 Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequetic:
 ![Simulatión Proteus](/Img/1.png)
