@@ -3,17 +3,23 @@
  
 ## Índice de contenidos
 * [Schematic](#item1)
+    * [Módulo de alimentación, regulador, control y salida](#item3)
+    * [Puerto de salida y entrada del PIC18F45K50](#item4)
 * [PCB](#item2)
 
  
-Lorem ipsum dolor
+
  
 <a name="item1"></a>
 ### Schematic
  
 Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequetic:
 ![Simulatión Proteus](/Img/1.png)
+<a name="item3"></a>
+ **Alimentación, regulador, control y salida:**
 ![Simulatión Proteus](/Img/2.png)
+<a name="item4"></a>
+**Puerto de salida y entrada del PIC18F45K50:**
 ![Simulatión Proteus](/Img/3.png)
 ![Simulatión Proteus](/Img/4.png)
  
@@ -31,3 +37,4 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 [Subir](#top)
  
 
+ 
