@@ -42,10 +42,7 @@ Se presenta la segunda versión de la placa ***JAPIC*** visualizando su Schequet
 <a name="item2"></a>
 ### PCB
 ![Simulatión Proteus](.Img/11.PNG)
-![Simulatión Proteus](.Img/14.PNG)
-![Simulatión Proteus](.Img/15.PNG)
-![Simulatión Proteus](.Img/16.PNG)
-![Simulatión Proteus](.Img/17.PNG)
+
 <a name="item5"></a>
 
 [Subir](#top)
