@@ -1,9 +1,0 @@
-_Lcd_Init: CODE, 32172 0 296
-_Teclado: CODE, 31724 0 154
-_Lcd_Chr_CP: CODE, 32468 0 300
-_main: CODE, 31662 0 62
-_Lcd_Cmd: CODE, 31878 0 294
-__initialization: CODE, 31638 0 0
-_int_teclado: CODE, 31628 0 10
-_Recuperar: CODE, 31648 0 14
-Total: 1130

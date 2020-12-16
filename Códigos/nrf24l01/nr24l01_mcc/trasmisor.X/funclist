@@ -1,9 +1,0 @@
-_PIN_MANAGER_Initialize: CODE, 32400 0 68
-_OpenSPI1: CODE, 32468 0 86
-_Ini_nRF: CODE, 32554 0 214
-_main: CODE, 32374 0 26
-__initialization: CODE, 32322 0 0
-_OSCILLATOR_Initialize: CODE, 32332 0 18
-_SYSTEM_Initialize: CODE, 32312 0 10
-_WriteSPI1: CODE, 32350 0 24
-Total: 446
