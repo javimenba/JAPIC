@@ -10,37 +10,42 @@
     * [F.Cu](#item9)
     * [B.Cu](#item7)
     * [Vista 3D](#item8)
+* [Final](#item9)    
  
 
  
 <a name="item1"></a>
 ### Schematic
  
-Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequetic:
-![Simulatión Proteus](.Img/1.png)
+Se presenta la segunda versión de la placa ***JAPIC*** visualizando su Schequetic:
+![Simulatión Proteus](.Img/5.PNG)
 [Subir](#top) 
 
 <a name="item3"></a>
  **Alimentación, regulador, control y salida:**
-![Simulatión Proteus](.Img/2.png)
+![Simulatión Proteus](.Img/6.PNG)
 [Subir](#top)
 
 <a name="item4"></a>
 **Puerto de salida y entrada del PIC18F45K50:**
-![Simulatión Proteus](.Img/3.png)
+![Simulatión Proteus](.Img/7.PNG)
 [Subir](#top)
 
 <a name="item5"></a>
 **Integración de módulos:**
-![Simulatión Proteus](.Img/4.png)
+![Simulatión Proteus](.Img/8.PNG)
+![Simulatión Proteus](.Img/9.PNG)
+![Simulatión Proteus](.Img/10.PNG)
  [Subir](#top)
 
  
 <a name="item2"></a>
 ### PCB
-
-![Simulatión Proteus](.Img/5.png)
-![Simulatión Proteus](.Img/7.png)
+![Simulatión Proteus](.Img/11.PNG)
+![Simulatión Proteus](.Img/14.PNG)
+![Simulatión Proteus](.Img/15.PNG)
+![Simulatión Proteus](.Img/16.PNG)
+![Simulatión Proteus](.Img/17.PNG)
 <a name="item5"></a>
 
 [Subir](#top)
@@ -48,23 +53,29 @@ Se presenta la primera versión de la placa ***JAPIC*** visualizando su Schequet
 
 <a name="item7"></a>
 **B.Cu:**
-![Simulatión Proteus](.Img/6.png)
+![Simulatión Proteus](.Img/13.PNG)
 [Subir](#top)
 
 
 <a name="item9"></a>
 **F.Cu:**
-![Simulatión Proteus](.Img/11.png)
+![Simulatión Proteus](.Img/12.PNG)
 [Subir](#top)
 
 <a name="item8"></a>
 
 **Vista 3D:**
-
-![Simulatión Proteus](.Img/9.png) 
-![Simulatión Proteus](.Img/8.png)
+![Simulatión Proteus](.Img/1.PNG)
+![Simulatión Proteus](.Img/2.PNG)
+![Simulatión Proteus](.Img/3.PNG)
+![Simulatión Proteus](.Img/4.PNG)
 
 [Subir](#top)
  
-
- 
+<a name="item9"></a>
+**Final:**
+![Simulatión Proteus](.Img/14.PNG)
+![Simulatión Proteus](.Img/15.PNG)
+![Simulatión Proteus](.Img/16.PNG)
+![Simulatión Proteus](.Img/17.PNG)
+[Subir](#top)
