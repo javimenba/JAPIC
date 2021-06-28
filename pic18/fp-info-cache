@@ -1,4 +1,4 @@
-19754180595306076
+19775834949892201
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50722,6 +50722,13 @@ abeja
 0
 0
 FIMEE
+abeja_sf
+
+
+0
+0
+0
+FIMEE
 dicis
 
 
@@ -50743,7 +50750,28 @@ japic
 0
 0
 FIMEE
+kicad_logo
+
+
+0
+0
+0
+FIMEE
+open_hardware
+
+
+0
+0
+0
+FIMEE
 prueba
+
+
+0
+0
+0
+FIMEE
+usb_logo
 
 
 0
@@ -54977,6 +55005,41 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+Javi-7SegDisplays
+1x7SEGMENT-8.78x15.24-Red-Black-Grey
+
+1x 7 segment red
+0
+10
+10
+Javi-7SegDisplays
+3x7SEGMENT-04x08-Red
+
+3x 7 segment red
+0
+11
+11
+Javi-7SegDisplays
+4x7SEGMENT-04x08-Red
+
+4x 7 segment red
+0
+12
+12
+Javi-7SegDisplays
+5x7SEGMENT-04x08-Red
+
+4x 7 segment red
+0
+13
+13
+Javi-7SegDisplays
+NOKIA-3310-LCD
+
+NOKIA, 3310, LCD
+0
+8
+8
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -82291,6 +82354,69 @@ transformer flyback
 0
 10
 10
+TypeC
+12401598E4#2A
+
+
+0
+28
+28
+TypeC
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+TypeC
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+TypeC
+HRO-TYPE-C-31-M-12-HandSoldering
+
+
+0
+16
+13
+TypeC
+HRO-TYPE-C-31-M-13
+
+
+0
+16
+13
+TypeC
+USB_C_GCT_USB4085
+
+
+0
+20
+17
+TypeC
+Wurth-632723300011
+
+
+0
+32
+27
+TypeC
+Wurth-632723300011-HandSoldering
+
+
+0
+30
+26
+TypeC
+Wurth-632723300011-MaximumExtensionMount
+
+
+0
+32
+27
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

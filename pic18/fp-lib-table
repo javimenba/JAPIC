@@ -1,4 +1,5 @@
 (fp_lib_table
-  (lib (name FIMEE)(type KiCad)(uri C:/Users/aguil/Documents/Japic/pic18/logo)(options "")(descr ""))
-  (lib (name digikey)(type KiCad)(uri C:/Users/aguil/Documents/Japic/pic18/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name FIMEE)(type KiCad)(uri /home/javier/Documentos/JAPIC/pic18/logo)(options "")(descr ""))
+  (lib (name digikey)(type KiCad)(uri /home/javier/Documentos/JAPIC/pic18/digikey-kicad-library-master/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name TypeC)(type KiCad)(uri ${KISYSMOD}/TypeC.pretty)(options "")(descr ""))
 )

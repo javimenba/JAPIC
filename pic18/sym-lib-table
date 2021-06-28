@@ -1,7 +1,7 @@
 (sym_lib_table
-  (lib (name pic18f45k50)(type Legacy)(uri C:/Users/aguil/Documents/Japic/pic18/PIC18F45K50.lib)(options "")(descr ""))
-  (lib (name conectores)(type Legacy)(uri C:/Users/aguil/Documents/Japic/pic18/Connector/Connector.lib)(options "")(descr ""))
-  (lib (name digikey)(type Legacy)(uri C:/Users/aguil/Documents/Japic/pic18/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
+  (lib (name pic18f45k50)(type Legacy)(uri /home/javier/Documentos/JAPIC/pic18/PIC18F45K50.lib)(options "")(descr ""))
+  (lib (name conectores)(type Legacy)(uri /home/javier/Documentos/JAPIC/pic18/Connector/Connector.lib)(options "")(descr ""))
+  (lib (name digikey)(type Legacy)(uri /home/javier/Documentos/JAPIC/pic18/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
   (lib (name pic18-rescue)(type Legacy)(uri ${KIPRJMOD}/pic18-rescue.lib)(options "")(descr ""))
   (lib (name 4xxx)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/4xxx.lib)(options "")(descr ""))
   (lib (name 4xxx_IEEE)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/4xxx_IEEE.lib)(options "")(descr ""))
@@ -203,4 +203,5 @@
   (lib (name Triac_Thyristor)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Triac_Thyristor.lib)(options "")(descr ""))
   (lib (name Valve)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Valve.lib)(options "")(descr ""))
   (lib (name Video)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Video.lib)(options "")(descr ""))
+  (lib (name 3x7Segment1)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/3x7Segment1.lib)(options "")(descr ""))
 )
