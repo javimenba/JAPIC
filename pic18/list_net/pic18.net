@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/javier/Documentos/JAPIC/pic18/pic18.sch)
-    (date "mié 30 jun 2021 01:04:37")
+    (date "sáb 03 jul 2021 18:38:20")
     (tool "Eeschema 5.1.10")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
