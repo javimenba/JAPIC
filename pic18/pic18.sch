@@ -1894,9 +1894,6 @@ F 3 "~" H 6070 6800 50  0001 C CNN
 	1    6070 6800
 	1    0    0    -1  
 $EndComp
-Connection ~ 4620 6500
-Wire Wire Line
-	5120 6500 4620 6500
 Wire Wire Line
 	4620 6650 4620 6500
 $Comp
@@ -1940,7 +1937,6 @@ Connection ~ 3400 7600
 Connection ~ 3970 7600
 Wire Wire Line
 	3100 6500 3400 6500
-Connection ~ 3400 6500
 Text Label 3925 5550 0    50   ~ 0
 VUSB
 $Comp
@@ -2462,12 +2458,7 @@ Wire Wire Line
 Text GLabel 4400 5925 2    50   Input ~ 0
 5V
 Wire Wire Line
-	3400 6500 3975 6500
-Wire Wire Line
 	3975 6500 3975 6325
-Connection ~ 3975 6500
-Wire Wire Line
-	3975 6500 4620 6500
 Text Label 3975 6325 0    89   ~ 0
 5v
 Wire Wire Line
@@ -2475,4 +2466,15 @@ Wire Wire Line
 Connection ~ 3925 5925
 Text Label 3725 5925 0    89   ~ 0
 5v
+Wire Wire Line
+	3975 6500 3970 6500
+Connection ~ 3400 6500
+Connection ~ 3970 6500
+Wire Wire Line
+	3970 6500 3400 6500
+Wire Wire Line
+	3975 6500 4620 6500
+Connection ~ 4620 6500
+Wire Wire Line
+	4620 6500 5120 6500
 $EndSCHEMATC
